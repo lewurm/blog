@@ -6,9 +6,8 @@ Views are my own and don't reflect the views of my employer.
 
 # Contact
 * email: lewurm _AT_ gmail _DOT_ com
-* telegram: @lewurm
-* twitter: @lewurm
+* telegram: [@lewurm](https://telegram.me/lewurm)
+* twitter: [@lewurm](https://twitter.com/lewurm)
 * publickey: [lewurm.pub](lewurm.pub)
-* gnupg fingerprint:
-
-[7387 F7B9 073E 5AD9 1DB2  05F4 4E4A 159E 17A2 F564](lewurm.asc)
+* gnupg fingerprint: [7387 F7B9 073E 5AD9 1DB2  05F4 4E4A 159E 17A2 F564](lewurm.asc)
+* website: http://wien.tomnetworks.com/
